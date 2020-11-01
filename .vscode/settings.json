@@ -1,6 +1,6 @@
 {
   "files.exclude": {
     "**/.next": true,
-    "**/.mdx-data": true,
+    // "**/.mdx-data": true,
   }
 }

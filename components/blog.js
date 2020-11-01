@@ -16,6 +16,9 @@ import Container from '../components/Container';
 import BlogPost from '../components/BlogPost';
 
 // eslint-disable-next-line import/no-unresolved, import/extensions
+/**
+ * @deprecated ALL OF THESE ROUTES ARE WRONG, NEED TO UPDATE THEM
+ */
 import { frontMatter as blogPosts } from './blog/**/*.mdx';
 import { frontMatter as styleGuides } from './blog/style-guides-component-libraries-design-systems.mdx';
 import { frontMatter as stripeDesign } from './blog/how-stripe-designs-beautiful-websites.mdx';
