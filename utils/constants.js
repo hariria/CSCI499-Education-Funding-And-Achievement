@@ -1,0 +1,1 @@
+export const frontendBaseURL = 'http://localhost:3000'
