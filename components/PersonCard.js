@@ -24,6 +24,7 @@ const PersonCard = ({ name, description, href, icon, picURL }) => {
 
   return (
     <Link
+      minWidth="100%"
       mb={4}
       href={href}
       onClick={() => {}}
