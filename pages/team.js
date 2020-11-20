@@ -21,25 +21,25 @@ const peopleInfo = [
     name: "Leena Mathur",
     description: "Senior at USC studying Computer Science, Cognitive Science, and Linguistics",
     href: "https://www.linkedin.com/in/leena-mathur/",
-    picURL: "https://media-exp1.licdn.com/dms/image/C4E03AQHequWuSuDpVg/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=bWyjyOa0D03ZnQ7cIjyk6s98qRoEOIbhf5nd9VcE4u0"
+    picURL: "/leena.jpeg"
   },
   {
     name: "Andrew Hariri",
     description: "Senior at USC studying Computer Science and Business",
     href: "https://www.linkedin.com/in/andrew-hariri/",
-    picURL: "https://media-exp1.licdn.com/dms/image/C4E03AQFgQ-3X67wFUw/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=c2fP1esntOGsWyDuew94-3uEgDZ4lha7gnIAo1sWZwU"
+    picURL: "/andrew.jpeg"
   },
   {
     name: "Nicole Ng",
     description: "Senior at USC studying Computer Science",
     href: "https://www.linkedin.com/in/nicoleng-sy/",
-    picURL: "https://media-exp1.licdn.com/dms/image/C5603AQHB7yyNJ41RKg/profile-displayphoto-shrink_200_200/0?e=1609977600&v=beta&t=tdV1I8s_V1m7HS9Ee3YCOyrMwRep_dZFrJ0fGV-vHSw"
+    picURL: "/nicole.jpeg"
   },
   {
     name: "Jae Shim",
     description: "Junior at USC studying Computer Science",
     href: "https://www.linkedin.com/in/jae-shim/",
-    picURL: "https://media-exp1.licdn.com/dms/image/C4E35AQEIVkoUWgLFvw/profile-framedphoto-shrink_200_200/0?e=1604354400&v=beta&t=D_C7IwjwnWGXKJhV0-dzAItr9a308IEHbhl4pVjwVLI"
+    picURL: "/jae.jpg"
   }
 ]
 
@@ -72,7 +72,7 @@ const Team = () => {
           description,
           images: [
             {
-              url: 'https://leerob.io/static/images/dashboard.jpg',
+              url: 'https://csci-499-education-funding-and-achievement.vercel.app/team',
               alt: description,
               width: 1280,
               height: 720

@@ -5,15 +5,6 @@ import { Flex, Link, IconButton } from '@chakra-ui/core';
 const Footer = () => (
   <Flex align="center" mb={4} direction="column">
     <div>
-      <Link href="https://twitter.com/leeerob" title="Twitter" isExternal>
-        <IconButton
-          aria-label="Twitter"
-          icon="twitter"
-          size="lg"
-          color="gray.500"
-          variant="ghost"
-        />
-      </Link>
       <Link href="https://github.com/hariria" title="GitHub" isExternal>
         <IconButton
           aria-label="GitHub"

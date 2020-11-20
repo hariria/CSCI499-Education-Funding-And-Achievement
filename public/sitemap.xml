@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://leerob.io/404</loc>
+    <loc>https://csci-499-education-funding-and-achievement.vercel.app/404</loc>
   </url>
 
   <url>
-    <loc>https://leerob.io/blog</loc>
+    <loc>https://csci-499-education-funding-and-achievement.vercel.app/</loc>
   </url>
 
   <url>
-    <loc>https://leerob.io</loc>
-  </url>
-
-  <url>
-    <loc>https://leerob.io/team</loc>
-  </url>
-
-  <url>
-    <loc>https://leerob.io/blog/backend</loc>
-  </url>
-
-  <url>
-    <loc>https://leerob.io/blog/google-analytics-api-nextjs</loc>
-  </url>
-
-  <url>
-    <loc>https://leerob.io/blog/learn-nextjs</loc>
-  </url>
-
-  <url>
-    <loc>https://leerob.io/blog/mdx</loc>
-  </url>
-
-  <url>
-    <loc>https://leerob.io/blog/next-prisma</loc>
-  </url>
-
-  <url>
-    <loc>https://leerob.io/blog/nextjs-authentication</loc>
-  </url>
-
-  <url>
-    <loc>https://leerob.io/blog/youtube-api-nextjs</loc>
+    <loc>https://csci-499-education-funding-and-achievement.vercel.app/team</loc>
   </url>
 </urlset>

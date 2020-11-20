@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://leerob.io/sitemap.xml
+Sitemap: https://csci-499-education-funding-and-achievement.vercel.app/sitemap.xml

@@ -5,16 +5,16 @@ const description =
 const SEO = {
   title,
   description,
-  canonical: 'https://google.com',
+  canonical: 'https://csci-499-education-funding-and-achievement.vercel.app/',
   openGraph: {
     type: 'website',
     locale: 'en_IE',
-    url: 'https://google.com',
+    url: 'https://csci-499-education-funding-and-achievement.vercel.app/',
     title,
     description,
     images: [
       {
-        url: 'https://www.google.com/logos/doodles/2020/how-to-vote-6753651837108824-l.png',
+        url: 'https://psmag.com/.image/t_share/MTI4NzYxNDYwMzM0NTY1ODU0/shutterstock_213333985jpg.jpg',
         alt: title,
         width: 1280,
         height: 720

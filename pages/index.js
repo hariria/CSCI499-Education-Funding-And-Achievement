@@ -49,7 +49,7 @@ const Index = () => {
           <ProjectCard
             title="CSCI 499 Project Paper"
             description="Exploring the Relationship Between Achievement and Funding in K-12 California Public Schools"
-            href="https://react2025.com/"
+            href="/CSCI499_Fall2020_ProjectReport.pdf"
             icon="react2025"
           />
         </Flex>
