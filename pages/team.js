@@ -39,7 +39,7 @@ const peopleInfo = [
     name: "Jae Shim",
     description: "Junior at USC studying Computer Science",
     href: "https://www.linkedin.com/in/jae-shim/",
-    picURL: "/jae.jpg"
+    picURL: "/jae2.jpg"
   }
 ]
 
